@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Murillo Pezzuol</string>
+    <string name="title_activity_main">Murillo Pezzuol</string>
+    <string name="tituloPrincipal">Murillo Pezzuol</string>
+    <string name="email">murillo.pezzuol@gmail.com</string>
+    <!--Variaveis SPLASH-->
+    <string name="splash_site">w w w . m u r i l l o p e z z u o l . c o m</string>
+    <string name="splash_titulo">MP</string>
+    <string name="splash_subtitulo">Murillo Pezzuol</string>
+    <string name="splash_imgTitulo">MP</string>
+
+    <!--Variaveis Diversas-->
+    <string name="sobremim">Sobre Mim:</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
